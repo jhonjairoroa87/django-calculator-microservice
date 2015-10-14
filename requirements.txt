@@ -1,0 +1,4 @@
+Django==1.8.5
+djangorestframework==3.2.4
+gunicorn==19.3.0
+wsgiref==0.1.2
